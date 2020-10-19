@@ -1,3 +1,0 @@
-[submodule "Packages/src/fyne.io/fyne"]
-	path = Packages/src/fyne.io/fyne
-	url = https://github.com/fyne-io/fyne.git
